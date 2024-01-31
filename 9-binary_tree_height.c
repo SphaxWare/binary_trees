@@ -2,6 +2,7 @@
 /**
  * binary_tree_height - height of a binary tree
  * @tree: the tree
+ * Return: 0 or height
  */
 size_t binary_tree_height(const binary_tree_t *tree)
 {
